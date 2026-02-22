@@ -3,43 +3,23 @@ entries:
   app1:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-02-22T17:05:59.336386915+05:30"
+    created: "2026-02-22T17:50:37.03458563+05:30"
     description: FastAPI App1
-    digest: e504058ae9d904cff21b87f5b6e597d93ae650c272933f98b01974ff4e5b6326
+    digest: 5bf82cd1a92ca62fb6fe4c2502da32eeda2d0c4e350af2ae09220ffaab5f6e1e
     name: app1
     type: application
     urls:
     - app1-0.1.0.tgz
     version: 0.1.0
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2026-02-22T17:05:59.343132437+05:30"
-    description: FastAPI App1
-    digest: 752d2bcbc587123242541913dc9898c6df3ceb5cefcf3df7ab8fac2f2906e199
-    name: app1
-    type: application
-    urls:
-    - helm/app1-0.1.0.tgz
-    version: 0.1.0
   app2:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-02-22T17:05:59.339068973+05:30"
+    created: "2026-02-22T17:50:37.041244638+05:30"
     description: FastAPI App2
-    digest: 7e6b64ee1a01c3c5af874642c09de4e6b55c0261ef31dc086ed5b07640920b78
+    digest: b7974b8b963196d02332cc6b0afde0e93c5d06cad3bfb47976fb29ce8f70db2b
     name: app2
     type: application
     urls:
     - app2-0.1.0.tgz
     version: 0.1.0
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2026-02-22T17:05:59.345898+05:30"
-    description: FastAPI App2
-    digest: ecf1119ddfb5bfad7a485dee6f3d2a0564155371f6d1feb9fa094318d09492e3
-    name: app2
-    type: application
-    urls:
-    - helm/app2-0.1.0.tgz
-    version: 0.1.0
-generated: "2026-02-22T17:05:59.333724555+05:30"
+generated: "2026-02-22T17:50:37.025531594+05:30"
