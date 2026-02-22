@@ -3,9 +3,9 @@ entries:
   app1:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-02-22T15:10:32.461207581+05:30"
+    created: "2026-02-22T15:34:59.257056251+05:30"
     description: FastAPI App1
-    digest: 542c8db705f0c71889bf12977c7a581c132d36de949ed0d18601302538f1e655
+    digest: c4991a94b477216338f24d6e0d691ee95a18732f7bf0c2dd6cc459eb486988c2
     name: app1
     type: application
     urls:
@@ -14,12 +14,12 @@ entries:
   app2:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-02-22T15:10:32.467084852+05:30"
+    created: "2026-02-22T15:34:59.263495595+05:30"
     description: FastAPI App2
-    digest: a523dbf61ed1372d76d064ae643c1ce8c2019f8641b42fb40aafd4092dd6f764
+    digest: 065e1e319abca059c45b8d9f6e8147ec81a1f8af17827812ca8ec605482b22a7
     name: app2
     type: application
     urls:
     - app2-0.1.0.tgz
     version: 0.1.0
-generated: "2026-02-22T15:10:32.454140808+05:30"
+generated: "2026-02-22T15:34:59.247291347+05:30"
