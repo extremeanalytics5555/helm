@@ -3,9 +3,9 @@ entries:
   app1:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-01T15:30:15.799973468+05:30"
+    created: "2026-04-05T12:30:38.951173101+05:30"
     description: FastAPI App1
-    digest: 495f1405674a3a6f63ebb678bcfb5b03faa788603e83f4eccdcb53027f31152e
+    digest: 8aee0474dfd52112d03c31243d43870cc92ad2203d12ead0f8363948c731269a
     name: app1
     type: application
     urls:
@@ -14,12 +14,34 @@ entries:
   app2:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-01T15:30:15.804669861+05:30"
+    created: "2026-04-05T12:30:38.958595627+05:30"
     description: FastAPI App2
-    digest: 80214620d38627b9944e0cda57033bbda27008dfb62c1471f2f4a746defb0f7c
+    digest: 43711a91fed1300764dd6eb3e1f38e4ca3475135bea6604a7d90d221b6540444
     name: app2
     type: application
     urls:
     - app2-0.1.0.tgz
     version: 0.1.0
-generated: "2026-03-01T15:30:15.795793+05:30"
+  dataintegration_d1:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-04-05T12:30:38.964770718+05:30"
+    description: data integration d1
+    digest: 4c1b0dd14db06589b2fd88d732d16c02ca3ee33062f5b7ccf2dfbf9f8f753253
+    name: dataintegration_d1
+    type: application
+    urls:
+    - dataintegration_d1-0.1.0.tgz
+    version: 0.1.0
+  dataintegration_dm:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-04-05T12:30:38.973890824+05:30"
+    description: data integration dm
+    digest: fe8c228a85fe5eab248d0f28cfae17ffbc5bc94c637a940bd6301ff62342dba2
+    name: dataintegration_dm
+    type: application
+    urls:
+    - dataintegration_dm-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-04-05T12:30:38.942943485+05:30"
